@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1610922272 source:c:\users\timur\univer\3 семестр\технологии программировани€\рассредоточенна€ практика\мо€ программа\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<Windows.h>
+
+1610922272 source:c:\users\timur\desktop\univer\3 семестр\!сдано учебна€ практика\мо€ программа\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<Windows.h>
+
+1631277955 source:c:\users\timur\desktop\univer\3 семестр\!сдано учебна€ практика\код программы\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<Windows.h>
+
+1631277955 source:c:\users\timur\desktop\!univer\3 семестр\!сдано учебна€ практика\код программы\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<Windows.h>
+
+1631277955 source:c:\users\timur\desktop\!универ\3 семестр\!сдано учебна€ практика\мо€ программа\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<Windows.h>
+
